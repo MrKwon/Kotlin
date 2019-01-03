@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
     var nx = stdIn.nextInt()
     val x = IntArray(nx)
 
-    for (i in 0..(nx-1)) {
+    for (i in 0..(nx - 1)) {
         x[i] = stdIn.nextInt()
     }
 
