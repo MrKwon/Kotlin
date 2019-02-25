@@ -2,8 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f535ee-cd10-4063-bb26-6ab418f35b29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9012.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LIS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q16394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q16395.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Q1992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/Class.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/DataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/stacktest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shape.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shapes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/Student.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Example.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q11055.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q7476.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9252.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1010.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10971.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10974.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11053.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11055.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q12015.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1251.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1526.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1535.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1629.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1725.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1759.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1992.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2023.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2104.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2261.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2309.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2355.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q9251.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/META-INF/studykotlin_main.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/META-INF/studykotlin_main.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/AdsfasdfKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/AdsfasdfKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter02/WhenExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter02/WhenExpressionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/CesnaAirplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/CesnaAirplane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Document$DefaultImpls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Document$DefaultImpls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Document.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Document.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/DocumentImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/DocumentImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Ellipsis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Ellipsis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/PolymorphismKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/PolymorphismKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/SingleEngineAirplane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter03/SingleEngineAirplane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt$safeEquals$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt$safeEquals$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt$safeEquals$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt$safeEquals$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/ExtensionFunctionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt$main$printHello$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt$main$printHello$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt$main$printMessage$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt$main$printMessage$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/FunctionLiteralKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/GetandsetKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/GetandsetKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/InandContainsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/InandContainsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/InfixFuncKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/InfixFuncKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Matrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz3$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz3$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz4$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt$fizzbuzz4$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/NestedFuncKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/OperatorOverloadingKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/OperatorOverloadingKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Piece.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Piece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Submarine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/Submarine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/TailRecursionKt$factRec$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/TailRecursionKt$factRec$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/TailRecursionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/TailRecursionKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/VarargsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter04/VarargsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter05/HigherorderfuncKt$modulo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter05/HigherorderfuncKt$modulo$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter05/HigherorderfuncKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/programming/kotlin/chapter05/HigherorderfuncKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/net/acmicpc/Q10828/Q10828Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/net/acmicpc/Q2750/Q2750Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/net/acmicpc/Q9012Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10828/Q10828.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10828.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2750/Q2750.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2750.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9012.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q9012.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -19,42 +101,64 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="studykotlin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1772746544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="2" />
-          <entry key="kt" value="20" />
+          <entry key="java" value="11" />
+          <entry key="kt" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="2" />
-          <entry key="Kotlin" value="20" />
+          <entry key="JAVA" value="11" />
+          <entry key="Kotlin" value="67" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="kt" value="13157" />
+          <entry key="java" value="3652" />
+          <entry key="kt" value="39967" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Kotlin" value="13157" />
+          <entry key="JAVA" value="3652" />
+          <entry key="Kotlin" value="39967" />
         </counts>
       </usages-collector>
     </session>
@@ -62,28 +166,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2750/Q2750.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q9251.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <state relative-caret-position="110">
+              <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10828/Q10828.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9252.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9012.kt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+            <state relative-caret-position="319">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -93,7 +197,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -457,21 +563,13 @@
       </map>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1992.kt" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/Class.kt" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/interface.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/OverridingRules.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter02/WhenExpression.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/polymorphism.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/NestedFunc.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/ExtensionFunction.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/InfixFunc.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/OperatorOverloading.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/InandContains.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/getandset.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/FunctionLiteral.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/TailRecursion.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/varargs.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter05/higherorderfunc.kt" />
@@ -479,6 +577,50 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2750/Q2750.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10828/Q10828.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9012.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10974.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1759.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10971.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1526.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2023.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1535.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1629.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2355.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2104.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2261.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1725.kt" />
+        <option value="$PROJECT_DIR$/src/test/kotlin/net/acmicpc/Q1992KtTest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1251.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/Q1992.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1992.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Example.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/property.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/Student.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/Q16394.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Q16395.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q1010.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/Q1010.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q7476.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q7476.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q11055.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Student.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Main.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shape.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shapes.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Class.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/Class.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/stacktest.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/DataClass.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/11053.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/LIS.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11055.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11053.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q12015.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q13555.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q13555.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9252.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
       </list>
     </option>
   </component>
@@ -488,9 +630,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1200" />
-    <option name="width" value="1692" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="474" />
+    <option name="width" value="2418" />
     <option name="height" value="1852" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -501,8 +643,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -526,26 +666,46 @@
               <item name="Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="studykotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-              <item name="acmicpc" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546509354908" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/KwonMC/Documents/GitHub/Kotlin/src/main/kotlin/net/acmicpc/Q7476.kt" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550999656304" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="net.acmicpc" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.programming.kotlin.Inheritance" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KwonMC\Documents\GitHub\Kotlin\src\main\kotlin\net\acmicpc\completed" />
+      <recent name="C:\Users\KwonMC\Documents\GitHub\Kotlin\src\main\kotlin\net\acmicpc" />
+      <recent name="C:\Users\KwonMC\Documents\GitHub\Kotlin\src\main\kotlin\com\programming\kotlin\Classes" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -559,86 +719,74 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.net.acmicpc.Q9012Kt">
-    <configuration name="com.programming.kotlin.AdsfasdfKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="LIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LIS" />
+      <module name="studykotlin_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="studykotlin_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="net.acmicpc.completed.Q11053Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="studykotlin_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.programming.kotlin.AdsfasdfKt" />
+      <option name="MAIN_CLASS_NAME" value="net.acmicpc.completed.Q11053Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.programming.kotlin.chapter05.HigherorderfuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="net.acmicpc.completed.Q11055Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="studykotlin_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.programming.kotlin.chapter05.HigherorderfuncKt" />
+      <option name="MAIN_CLASS_NAME" value="net.acmicpc.completed.Q11055Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="net.acmicpc.Q10828.Q10828Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="net.acmicpc.completed.Q12015Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="studykotlin_main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="net.acmicpc.Q10828.Q10828Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="net.acmicpc.Q2750.Q2750Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="studykotlin_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="net.acmicpc.Q2750.Q2750Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="net.acmicpc.Q9012Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="studykotlin_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="net.acmicpc.Q9012Kt" />
+      <option name="MAIN_CLASS_NAME" value="net.acmicpc.completed.Q12015Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Kotlin.com.programming.kotlin.chapter05.HigherorderfuncKt" />
-      <item itemvalue="Kotlin.com.programming.kotlin.AdsfasdfKt" />
-      <item itemvalue="Kotlin.net.acmicpc.Q2750.Q2750Kt" />
-      <item itemvalue="Kotlin.net.acmicpc.Q10828.Q10828Kt" />
-      <item itemvalue="Kotlin.net.acmicpc.Q9012Kt" />
+      <item itemvalue="Kotlin.net.acmicpc.completed.Q11053Kt" />
+      <item itemvalue="Application.LIS" />
+      <item itemvalue="Kotlin.net.acmicpc.completed.Q11055Kt" />
+      <item itemvalue="Kotlin.net.acmicpc.completed.Q12015Kt" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.net.acmicpc.Q9012Kt" />
-        <item itemvalue="Kotlin.net.acmicpc.Q10828.Q10828Kt" />
-        <item itemvalue="Kotlin.net.acmicpc.Q2750.Q2750Kt" />
-        <item itemvalue="Kotlin.com.programming.kotlin.AdsfasdfKt" />
-        <item itemvalue="Kotlin.com.programming.kotlin.chapter05.HigherorderfuncKt" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Kotlin.net.acmicpc.completed.Q12015Kt" />
+        <item itemvalue="Kotlin.net.acmicpc.completed.Q11053Kt" />
+        <item itemvalue="Kotlin.net.acmicpc.completed.Q11055Kt" />
+        <item itemvalue="Application.LIS" />
       </list>
     </recent_temporary>
   </component>
@@ -656,9 +804,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="600" y="0" width="846" height="926" extended-state="0" />
+    <frame x="-6" y="-6" width="1453" height="933" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39259258" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.35289907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -666,26 +815,26 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3709273" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="10" weight="0.32919255" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3283208" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5003579" side_tool="true" weight="0.25093168" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.32919255" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.3279503" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Gradle" order="5" weight="0.32999283" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3288889" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32856122" />
+      <window_info anchor="right" id="Run" order="9" sideWeight="0.4996421" weight="0.55690765" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -701,111 +850,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.10/27e50db5c984a3ee710c5556c877728a4e735971/kotlin-stdlib-common-1.3.10-sources.jar!/generated/_Collections.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="239" column="34" selection-start-line="239" selection-start-column="34" selection-end-line="239" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/OverridingRules.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/polymorphism.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter02/WhenExpression.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/NestedFunc.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/ExtensionFunction.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/interface.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter05/higherorderfunc.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/adsfasdf.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/InfixFunc.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/OperatorOverloading.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/InandContains.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/getandset.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/FunctionLiteral.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter04/TailRecursion.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -820,35 +864,346 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q2750/Q2750.kt">
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10828.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q9012.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.10/27e50db5c984a3ee710c5556c877728a4e735971/kotlin-stdlib-common-1.3.10-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="1487" column="36" selection-start-line="1487" selection-start-column="36" selection-end-line="1487" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10974.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="26" column="4" lean-forward="true" selection-start-line="26" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.10/27e50db5c984a3ee710c5556c877728a4e735971/kotlin-stdlib-common-1.3.10-sources.jar!/generated/_Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="1637" column="17" lean-forward="true" selection-start-line="1637" selection-start-column="17" selection-end-line="1637" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2309.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1759.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q10971.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="785" column="31" lean-forward="true" selection-start-line="785" selection-start-column="31" selection-end-line="785" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/Char.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1535.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1526.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2023.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1629.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2355.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/Primitives.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="583" column="24" selection-start-line="583" selection-start-column="24" selection-end-line="583" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.10/eedd46031f8f5dc8c088e7d52f136d855fc1bddb/kotlin-stdlib-1.3.10-sources.jar!/kotlin/io/Console.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="153" column="4" selection-start-line="153" selection-start-column="4" selection-end-line="153" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/kotlin/net/acmicpc/Q1992KtTest.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q1992.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1251.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1992.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1725.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2261.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2104.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="16" lean-forward="true" selection-end-line="52" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Example.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/Student.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q16394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q16395.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q1010.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter06/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Q1010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/chapter03/polymorphism.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-638">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/Class.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/DataClass.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shape.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Shapes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Inheritance/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/programming/kotlin/Classes/stacktest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="34" column="4" lean-forward="true" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q7476.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11053.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q2750.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q10828/Q10828.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q12015.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state relative-caret-position="66">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q11055.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        <state relative-caret-position="198">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
-            <element signature="e#2807#2808#0" expanded="true" />
-            <element signature="e#2841#2842#0" expanded="true" />
+            <element signature="e#31#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9012.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q11055.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="187">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#21#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/completed/Q9251.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/net/acmicpc/Q9252.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
         </state>
       </provider>
     </entry>
